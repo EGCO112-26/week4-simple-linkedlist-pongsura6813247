@@ -46,6 +46,5 @@ int main(int argc, char *argv[]) {
         free(temp);
         temp = head;
     }
-
     return 0;
 }
